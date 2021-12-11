@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">YaraAbouelenin_HW1</string>
+    <string name="Title">Harry Potter Cinema</string>
+    <string name="txt1">Choose a Harry Potter movie (0-8)</string>
+    <string name="hintNum">Number of seats</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="btnBack1">Back to main page</string>
+    <string name="btn2">Display cost</string>
+    <string name="close">Close</string>
+</resources>
